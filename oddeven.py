@@ -4,4 +4,4 @@ if num == 0:
 elif num%2==0:
 	print("even")
 else:
-	print("odd")
+	print("Odd")
